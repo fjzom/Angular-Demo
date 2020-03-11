@@ -1,0 +1,24 @@
+SETEAR EL AMBIENTE
+visual studio code
+instalar npm en VS(using terminal)
+intallar ultima version de node (need to be manually)
+instalar angular/cli en VS(using terminal)
+
+
+Create Angular Project
+
+ng new my-app
+cd my-app
+ng serve --open
+
+
+
+Create Angular Project using Stackblitz
+
+go to https://stackblitz.com/
+Sign in using github account
+Fork the Project
+Follow the guide https://angular.io/start
+
+Complete Project 
+https://stackblitz.com/edit/product-list?file=src%2Fapp%2Fproduct-list%2Fproduct-list.component.ts
